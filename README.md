@@ -1,7 +1,7 @@
 # Sprint-4_covid
 Informe Pandémico: Estadística Aplicada
 
-Informe Pandémico: Estadística Aplicada
+
 
 Propósito y Scope
 
